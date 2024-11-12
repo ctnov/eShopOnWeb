@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 9384e0a1-03ca-486f-a47a-68a94e258153
-  WEBAPP-NAME: githubaction
+  WEBAPP-NAME: appserviceplan-githubaction
 
 
 jobs:
