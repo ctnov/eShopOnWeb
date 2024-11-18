@@ -1,0 +1,11 @@
+displayName: Test_11/14/2024_8:59:33 PM
+testPlan: url-test.json
+description: ''
+engineInstances: 1
+testId: 2fcd15b2-81dd-4f9b-8a60-4d938bbb9187
+testType: URL
+splitAllCSVs: False
+failureCriteria: []
+autoStop:
+  errorPercentage: 90
+  timeWindow: 60
